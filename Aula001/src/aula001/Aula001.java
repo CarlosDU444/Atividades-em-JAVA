@@ -1,4 +1,4 @@
-//Leia um número inteiro e imprima o seu antecessor eseu sucessor.//
+//Leia um número inteiro e imprima o seu antecessor eseu sucessor. //
 
 package aula001;
 import java.util.Scanner;
