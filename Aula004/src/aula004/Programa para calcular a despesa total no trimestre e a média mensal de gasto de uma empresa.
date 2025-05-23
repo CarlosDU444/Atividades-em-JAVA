@@ -1,6 +1,6 @@
-/*Na empresa dos Barões da Pisadinha, há tabelas com ogasto de cada mês. Para fechar o balanço do primeirotrimestre,
-precisamos somar o gasto total. Sabendoque, em janeiro, foram gastos 15 mil reais, emfevereiro, 23 mil reais e, em março, 17 mil reais, 
-façaum programa que calcule e imprima a despesa total notrimestre e a média mensal de gastos.*/
+/*Exemplo Na empresa dos Barões da Pisadinha, há tabelas com ogasto de cada mês. Para fechar o balanço do primeirotrimestre,
+precisamos somar o gasto total. Sabendo que, em janeiro, foram gastos 15 mil reais, emfevereiro, 23 mil reais e, em março, 17 mil reais, 
+façaum programa que calcule e imprima a despesa total no trimestre e a média mensal de gastos.*/
 
 package aula004;
 import java.util.Scanner;
